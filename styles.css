@@ -1,0 +1,36 @@
+header, main, footer {
+    padding-left: 300px;
+  }
+
+  @media only screen and (max-width : 992px) {
+    header, main, footer {
+      padding-left: 0;
+    }
+  }
+  
+  .font1{
+    font-family: 'Crimson Text', serif;
+  }
+
+  #iconito{
+    width: 40px;
+  }
+  .cptImg{
+    width: 250px;
+    height: 250px;
+  }
+  .iconos{
+    margin: 15px;
+  }
+  .iconmenu{
+    margin: 2px;
+    width: 14px;
+    margin: 20px;
+  }
+  .targeta{
+    margin: 20px;
+   
+  }
+  .skils{
+    margin-bottom: 10px;
+  }
